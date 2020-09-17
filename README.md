@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React & Redux on Microverse online school
+- 🌱 I’m currently developing my final capstone on Microverse online school
 - 🤔 Also looking for new challenges
 
 <!--
