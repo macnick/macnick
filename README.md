@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm [Nick!](https://nickharas.com/)
 
-- 🌱 I’m currently developing my final capstone on Microverse online school
+
+- 👨🏽‍💻 Full time job searching 
+- 🌱 I’m currently extending my skillset in `Node.js`
+- 📫 How to reach me: nick@macexperts.gr
+- 📝 [Resume](https://docs.google.com/document/d/14Y6lh1eNt9qUwG1wLBkABmzAo4-IW6t-KA9_GapIZ1I/edit?usp=sharing)
+
+![Profile views](https://gpvc.arturio.dev/macnick)
+![Profile views](https://komarev.com/ghpvc/?username=macnick)
+
 - 🤔 Also looking for new challenges
 
 <!--
