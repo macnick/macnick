@@ -5,9 +5,6 @@
 - 🌱 I’m currently extending my skillset in `Node.js`
 - 📫 How to reach me: nick@macexperts.gr
 - 📝 [Resume](https://docs.google.com/document/d/14Y6lh1eNt9qUwG1wLBkABmzAo4-IW6t-KA9_GapIZ1I/edit?usp=sharing)
-
-![Profile views](https://gpvc.arturio.dev/macnick)
-
 - 🤔 Also looking for new challenges
 
 <!--
@@ -26,3 +23,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=macnick&show_icons=true&bg_color=#f22)
+
+![Profile views](https://gpvc.arturio.dev/macnick)
