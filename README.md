@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/macnick?label=Follow%20Nick%20on%20Twitter&style=social)](https://twitter.com/macnick)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=macnick&show_icons=true&bg_color=#f22)
 
