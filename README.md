@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm [Nick!]
 
-- 👨🏽‍💻 Full time job searching 
+- 👨🏽‍💻 Available for remote opportunities 
 - 🌱 I’m currently extending my skillset in `Node.js`
 - 📫 How to reach me: nick@macexperts.gr
 - 📝 [Resume](https://docs.google.com/document/d/14Y6lh1eNt9qUwG1wLBkABmzAo4-IW6t-KA9_GapIZ1I/edit?usp=sharing)
