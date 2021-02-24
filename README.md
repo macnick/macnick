@@ -1,6 +1,6 @@
 
 
-### Hi 👋, I'm [Nick!]
+### Hi 👋, I'm [Nick!](https://nickharas.com)
 
 - 👨🏽‍💻 Available for remote opportunities 
 - 🌱 I’m currently extending my skillset in `Node.js`
