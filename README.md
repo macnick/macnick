@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack
 
 - 💻   Ruby | Ruby on Rails | Node
-- 🌐   HTML | CSS | Bootstrap | ES6 | ReactJS | Redux
+- 🌐   HTML | CSS | Bootstrap | JavaScript ES6 | ReactJS | Redux
 - 🛢   MySQL | Firebase | PostgreSQL
 - 🔧   Git | Markdown | RSpec | Heroku | Netlify
