@@ -11,7 +11,7 @@
 
 
 <img
-  style="width:50%; height:50%; border-radius:10px"
+  style="--border-radius:10px"
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macnick&skills=CSS,ERB,HTML,JSON,JavaScript,Ruby,SCSS,Other&width=640"
 />
 
