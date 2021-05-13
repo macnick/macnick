@@ -10,9 +10,9 @@
 - 🤔 Also looking for new challenges
 
 <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
-<codersrank-skills-chart username="macnick"></codersrank-skills-chart>
-
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macnick&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
 <!--
 **macnick/macnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
