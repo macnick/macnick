@@ -9,6 +9,10 @@
 - 📊 See My Stats on [CodersRank](https://profile.codersrank.io/user/macnick)
 - 🤔 Also looking for new challenges
 
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+<codersrank-skills-chart username="macnick"></codersrank-skills-chart>
+
 <!--
 **macnick/macnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
