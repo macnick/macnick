@@ -11,7 +11,7 @@
 
 <!-- replace x.x.x with actual version -->
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macnick&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macnick&skills=CSS,ERB,HTML&width=920"
 />
 <!--
 **macnick/macnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
