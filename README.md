@@ -10,7 +10,7 @@
 - 🤔 Also looking for new challenges
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=macnick&badges=3&show-avatar=false&branding=false&style=width:320px;--header-bg-color:%23000;--border-radius:3px;--badge-rank-font-size:0.5em;--badge-technology-font-size:0.5em;--badge-location-font-size:0.5em;--badge-icon-size:18px;--name-font-size:0.7em;--rank-font-size:0.7em"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=macnick&badges=3&show-avatar=false&branding=false&style=width:320px;--header-bg-color:%23000;--border-radius:3px;--badge-rank-font-size:0.5em;--badge-technology-font-size:0.5em;--badge-location-font-size:0.5em;--badge-icon-size:18px;--name-font-size:0.7em;--rank-font-size:0.7em;"
 />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/macnick?label=Follow%20Nick%20on%20Twitter&style=social)](https://twitter.com/mac_experts)
