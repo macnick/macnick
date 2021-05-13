@@ -9,7 +9,7 @@
 - 📊 See My Stats on [CodersRank](https://profile.codersrank.io/user/macnick)
 - 🤔 Also looking for new challenges
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macnick" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=macnick" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/macnick?label=Follow%20Nick%20on%20Twitter&style=social)](https://twitter.com/mac_experts)
 
