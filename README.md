@@ -11,8 +11,10 @@
 
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macnick&skills=CSS,ERB,HTML,JSON,JavaScript,Ruby,SCSS,Other&width=640" style="border-radius:10px"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macnick&skills=CSS,ERB,HTML,JSON,JavaScript,Ruby,SCSS,Other&width=640" style="border:1px solid black; border-radius:10px"
 />
+
+<--
 **macnick/macnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
