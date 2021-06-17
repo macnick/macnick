@@ -18,6 +18,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=macnick&show_icons=true&bg_color=#f22)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macnick)](https://github.com/macnick/github-readme-stats)
+
+
 ![Profile views](https://gpvc.arturio.dev/macnick)
 
 ### 🛠 Tech Stack
