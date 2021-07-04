@@ -5,7 +5,7 @@
 - 👨🏽‍💻 Available for remote opportunities 
 - 🌱 I’m currently extending my skillset in `Node.js`
 - 📫 How to reach me: nick@macexperts.gr
-- 📝 [My Resume](http://nickharas.com/Nick_Haralampopoulos_resume_0221.pdf)
+- 📝 [My Resume](http://nickharas.com/Nick_Haralampopoulos_resume_0721.pdf)
 - 📊 See My Stats on [CodersRank](https://profile.codersrank.io/user/macnick)
 - 🤔 Looking for new challenges
 
