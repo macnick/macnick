@@ -5,7 +5,6 @@
 - 👨🏽‍💻 Software Engineer at ProptechCore 
 - 🌱 I’m currently extending my skillset in `Node.js`
 - 📫 How to reach me: nick@macexperts.gr
-- 📝 [My Resume](http://nickharas.com/Nick_Haralampopoulos_resume_0721.pdf)
 - 📊 See My Stats on [CodersRank](https://profile.codersrank.io/user/macnick)
 
 <img
