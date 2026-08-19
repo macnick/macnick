@@ -18,6 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macnick)](https://github.com/macnick/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macnick&layout=compact&langs_count=8)](https://github.com/macnick/github-readme-stats)
+
 
 ![Profile views](https://gpvc.arturio.dev/macnick)
 
