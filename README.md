@@ -16,7 +16,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=macnick&show_icons=true&bg_color=#f22)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macnick)](https://github.com/macnick/github-readme-stats)
+[![Nick's GitHub stats](https://github-stats-extended.vercel.app/api?username=macnick)](https://github.com/stats-organization/github-stats-extended)
 
 ![Profile views](https://gpvc.arturio.dev/macnick)
 
