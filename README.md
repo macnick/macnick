@@ -3,7 +3,7 @@
 ### Hi 👋, I'm [Nick!](https://nickharas.com)
 
 - 👨🏽‍💻 Software Engineer at ProptechCore 
-- 🌱 I’m currently extending my skillset in `Node.js`
+- 🌱 I’m currently extending my skillset in `Nest.js`
 - 📫 How to reach me: nick@macexperts.gr
 - 📊 See My Stats on [CodersRank](https://profile.codersrank.io/user/macnick)
 
@@ -18,4 +18,4 @@
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=macnick&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
 
-![Profile views](https://gpvc.arturio.dev/macnick)
+![Profile views](https://komarev.com/ghpvc/?username=macnick&base=3000)
