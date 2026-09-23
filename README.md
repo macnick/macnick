@@ -14,8 +14,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/macnick?label=Follow%20Nick%20on%20Twitter&style=social)](https://twitter.com/mac_experts)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=macnick&show_icons=true&bg_color=#f22)
-
 [![Nick's GitHub stats](https://github-stats-extended.vercel.app/api?username=macnick)](https://github.com/stats-organization/github-stats-extended)
 
 ![Profile views](https://gpvc.arturio.dev/macnick)
