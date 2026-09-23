@@ -16,11 +16,6 @@
 
 [![Nick's GitHub stats](https://github-stats-extended.vercel.app/api?username=macnick)](https://github.com/stats-organization/github-stats-extended)
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=macnick&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
+
 ![Profile views](https://gpvc.arturio.dev/macnick)
-
-### 🛠 Tech Stack
-
-- 💻   Ruby | Ruby on Rails | Node
-- 🌐   HTML | CSS | Bootstrap | JavaScript ES6 | ReactJS | Redux
-- 🛢   MySQL | Firebase | PostgreSQL
-- 🔧   Git | Markdown | RSpec | Heroku | Netlify
