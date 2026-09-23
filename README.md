@@ -14,8 +14,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/macnick?label=Follow%20Nick%20on%20Twitter&style=social)](https://twitter.com/mac_experts)
 
-[![Nick's GitHub stats](https://github-stats-extended.vercel.app/api?username=macnick)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=macnick&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=macnick&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=light_github)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=macnick&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=macnick&layout=donut&langs_count=8&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=macnick&layout=donut&langs_count=8&theme=light_github)
 
 ![Profile views](https://komarev.com/ghpvc/?username=macnick&base=3000)
